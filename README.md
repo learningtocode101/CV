@@ -5,47 +5,54 @@ Looking to join a dynamic and progressive environment that will utilise my exist
 
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
+During my 6+ years as an IT Support Analyst, I collaborated extensively with peers, IT management, and other engineers to resolve technical issues and support hardware infrastructures. This moulded me into becoming highly experienced in investigating root cuases of failures and establishing a solution.  
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Commuication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My previous roles invloved working closely with variuos teams to ensure to develop compliance and other regulatory documents to implememnt security policies and end users training documentation.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I achieved developing and implementing best practices and procedures by sending weekly IT tips to end users.
+- I contributed to the education of end users by carry out IT induction training with individuals at all levels 
+
+### Troubleshooting
+Collaborated extensively with peers, IT management, and other engineers to resolve technical issues and support infrastructure.
+- I
+- jjjgjk
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
+#### Makers Academy (November 2018 to Present)
+Makers provide a selective and intensive four-month training program to become a high-quality professional software developer
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
-
+Technologies:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Arden University (October 2018 to October 2019)
+BSc. in Computing
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### FlatIron School (October 2018 to October 2019)
+BSc. in Computing
 
-#### Any other qualifications
+#### The Open University (October 2013)
+Foundation degree in Computing and IT Practice(Software Development Pathway)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**MarketInvoice Ltd** (May 2017 to November 2018)    
+*IT Support Engineer*  
+**Paul Hastings LLP** (March 2015 to April 2017)   
+*Senior IT Support Analyst* 
+**Mischon de Reya** (November 2014 to February 2015)   
+*Senior IT Support Analyst* 
+**DLA Piper LLP** (Novemeber 2012 to November 2014)   
+*Senior IT Support Analyst*  
