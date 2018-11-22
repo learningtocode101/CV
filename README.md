@@ -1,6 +1,7 @@
-## Your Name
+## Shaneil Clarke
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Logical thinking and organised individual currently completing a four-month hihghly selective and intensive training program to become a high-quality professional software developer.
+Looking to join a dynamic and progressive environment that will utilise my existing skills, offer further development and reveal new challenges.
 
 ## Skills
 
