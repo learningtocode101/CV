@@ -1,6 +1,5 @@
 ## Shaneil Clarke
 
-[Skills]
 Logical thinking and organised individual currently completing a four-month hihghly selective and intensive training program to become a high-quality professional software developer.
 Looking to join a dynamic and progressive environment that will utilise my existing skills, offer further development and reveal new challenges.
 
@@ -26,11 +25,13 @@ My most recent role saw me joining a scaling finance-technology company to set u
 Read more about it [here](https://blog.marketinvoice.com/2018/09/05/marketinvoice-shaneil-clarke/) 
 
 ## Projects
-| Project       | Description          | Link  |
-| ------------- |:--------------------:| -----:|
-| Project 1     | Coming soon          |       |
-| Project 2     | Coming soon          |       |
-| Project 3     | Coming soon          |       |
+Passionate about learning code and solving problems with technology. I have created or contributed to below projects: 
+
+| Project       | Description              | Link      |
+| ------------- |:------------------------:| ---------:|
+| Fizzbuzz TDD  | TDD for Fizzbuzz problem |  [github](https://github.com/learningtocode101/fizzbuzz)|
+| Project 2     | Coming soon              |           |
+| Project 3     | Coming soon              |           |
 
 ## Education
 
@@ -43,13 +44,13 @@ Technologies:
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Arden University (October 2019)
+#### Arden University (October 2018 - October 2019)
 BSc. in Computing
 
-#### FlatIron School (October 2018)
+#### FlatIron School (June 2018 - August 2018)
 10 week part-time Introduction to Front-End Development course
 
-#### The Open University (October 2017)
+#### The Open University (October 2013 - June 2017)
 Foundation degree in Computing and IT Practice(Software Development Pathway)
 
 ## Experience
