@@ -20,9 +20,10 @@ Collaborated extensively with peers, IT management, and other engineers to resol
 - I achieved being called the 'mobile device guru' for my extensive knowledge and troubleshooting skills in identifying issues with mobile devices.
 - I also contributed to creating technical documentation for company infrastructure.
 
-### Quick Learner
+#### Quick Learner
 My most recent role saw me joining a scaling finance-technology company to set up and pull their IT Support function in-house. 
-Read more about it [here](https://blog.marketinvoice.com/2018/09/05/marketinvoice-shaneil-clarke/) 
+Read more about it [here](https://blog.marketinvoice.com/2018/09/05/marketinvoice-shaneil-clarke/)  
+Recent training at Makers includes self-taught guided learning with new concepts everyday.
 
 ## Projects
 Passionate about learning code and solving problems with technology. I have created or contributed to below projects: 
@@ -36,13 +37,15 @@ Passionate about learning code and solving problems with technology. I have crea
 ## Education
 
 #### Makers Academy (November 2018 to Present)
-Makers provide a selective and intensive four-month training program to become a high-quality professional software developer
-[Github Profile](https://github.com/learningtocode101?tab=repositories)
+Makers provide a selective and intensive four-month training program to become a high-quality professional software developer.  
 Technologies:
 - OOP, TDD, MVC, BDD
 - Agile/XP
 - Ruby, JavaScript
 - RSpec, Jasmine, Capybara
+
+Portfolio:   
+[Github Contributions](https://github.com/learningtocode101?tab=repositories)  
 
 #### Arden University (October 2018 - October 2019)
 BSc. in Computing
