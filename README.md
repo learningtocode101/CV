@@ -1,7 +1,6 @@
 ## Shaneil Clarke
 
-Logical thinking and organised individual currently completing a four-month hihghly selective and intensive training program to become a high-quality professional software developer.
-Looking to join a dynamic and progressive environment that will utilise my existing skills, offer further development and reveal new challenges.
+Logical thinking and organised individual looking to join a dynamic and progressive environment as a junior software engineer that will utilise my existing skills, offer further development and reveal new challenges.
 
 ## Skills
 
@@ -37,9 +36,11 @@ Passionate about learning code and solving problems with technology. I have crea
 ## Education
 
 #### Makers Academy (November 2018 to Present)
-Makers provide a selective and intensive four-month training program to become a high-quality professional software developer.  
-Technologies:
-- OOP, TDD, MVC, BDD
+*Intensive 16-week program / 10% acceptance rate*
+
+- Learning Agile development principles and using best coding practices such as TDD
+- Project management 
+- Frameworks such as RSpec, Jasmine, Ruby on Rails 
 - Agile/XP
 - Ruby, JavaScript
 - RSpec, Jasmine, Capybara
@@ -60,12 +61,12 @@ Foundation degree in Computing and IT Practice(Software Development Pathway)
 
 **MarketInvoice Ltd** (May 2017 to November 2018)    
 *IT Support Engineer*  
+*key skills: problem solving, time management, presentation, documentation and writing*
 
 **Paul Hastings LLP** (March 2015 to April 2017)   
 *Senior IT Support Analyst* 
-
-**Mischon de Reya** (November 2014 to February 2015)   
-*Senior IT Support Analyst* 
+*key skills: mentoring, verbal communication, stakeholder management, creativity*
 
 **DLA Piper LLP** (Novemeber 2012 to November 2014)   
 *IT Support Analyst*  
+*key skills: approachability, patience, accountability, teamwork*
