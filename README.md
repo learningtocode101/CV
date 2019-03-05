@@ -1,5 +1,6 @@
 ## Shaneil Clarke
-[Github Contributions](https://github.com/learningtocode101?tab=repositories)  
+[Github](https://github.com/learningtocode101?tab=repositories)   
+[LinkedIn](https://www.linkedin.com/in/shaneil-c-85284568/)  
 
 Logical thinking and organised individual looking to join a dynamic and progressive environment as a junior software engineer that will utilise my existing skills, offer further development and reveal new challenges.
 
