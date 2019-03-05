@@ -25,13 +25,13 @@ Read more about it [here](https://blog.marketinvoice.com/2018/09/05/marketinvoic
 Recent training at Makers includes self-taught guided learning with new concepts everyday.
 
 ## Projects
-Passionate about learning code and solving problems with technology. I have created or contributed to below projects: 
-
-| Project           | Description              | Link      |
-| ----------------- |:------------------------:| ---------:|
-| Fizzbuzz TDD      | TDD for Fizzbuzz problem |  [FizzBuzz](https://github.com/learningtocode101/fizzbuzz)|
-| Messaging App     | Coming soon              |  [Bounce](https://github.com/learningtocode101/messaging_app)|
-| Chitter Challenge | Twitter Clone            |  [Chitter](https://github.com/learningtocode101/chitter-challenge)|
+| Project           | Description              | Timeframe |Technologies
+| ----------------- |:------------------------:|:---------:|:---------:|
+| [Britain's Got Trivia](https://github.com/learningtocode101/alexa_node_js_quiz)| Quiz app using Alexa. Questions based on the popular Life in the UK test | 2 weeks | AWS Lambda, Node.js, Bespoken, Travis CI| 
+| [CatBook](https://github.com/learningtocode101/acebook-team-cats)| Group project created to clone features of facebook such as creating post, comments etc.| 2 weeks | Ruby on Rails, Heroku, Travis CI, RSpec, Cabybara, HTML, CSS |
+| [Instagram Clone](https://github.com/learningtocode101/instagram) | Instagram clone where a user can upload photos with caption| 1 Weekend| Ruby on Rails, RSpec, Rubocop, Travis CI, |
+| [News Challenge](https://github.com/learningtocode101/news-summary-challenge) | Web app will grab all the headlines from the Guardian newspaper API and display them on a page. Clicking on a headline will take you to the article.| 1 Weekend| JavaScript, HTML, CSS |
+| [Custom Testing Framework](https://github.com/learningtocode101/custom_framework) | Basic custom framework from scratch for JavaScript. Has thre matchers: toEq, toThrowError and ToBeAnInstanceOf| 3 days | JavaScript |
 
 ## Education
 
