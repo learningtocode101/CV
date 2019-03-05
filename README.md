@@ -14,21 +14,17 @@ Logical thinking and organised individual looking to join a dynamic and progress
 
 ## Skills
 
-#### Problem Solving
-During my 6+ years as an IT Support Analyst, I collaborated extensively with peers, IT management, and other engineers to resolve technical issues. 
-- I achieved being called the 'mobile device guru' for my extensive knowledge and troubleshooting skills in identifying issues with mobile devices. This molded me into becoming highly experienced in investigating root causes of failures and implementation a solution or quick work around.  
+**Problem Solving** - During my 6+ years as an IT Support Analyst, I collaborated extensively with peers, IT management, and other engineers to resolve technical issues. This molded me into becoming highly experienced in investigating root causes of failures and implementation a solution or quick work around.
+- I achieved being called the 'mobile device guru' for my extensive knowledge and troubleshooting skills in identifying issues with mobile devices.   
 
-#### Communication
-My previous roles involved working closely with various teams to develop compliance and other regulatory documents. This led to the implementation of security policies and end users training documentation.
+**Communication** - My previous roles involved working closely with various teams to develop compliance and other regulatory documents. This led to the implementation of security policies and end users training documentation.
 - I achieved developing and implementing best practices and procedures by sending weekly IT tips to end users.
 - I contributed to the education of end users by carrying out IT induction training with individuals at all levels 
 
-#### Time Management
-Completing a degree online with Open University whilst working full-time, I developed a process of planning and exercising conscious control of time spent on specific activities. 
+**Time Management** - I developed a process of planning and exercising conscious control of time spent on specific activities. This allowed me to complete my foundation degree online with Open University, whilst working full-time.
 
-#### Quick Learner
-My most recent role saw me joining a scaling finance-technology company to set up and pull their IT Support function in-house. More about it on the company's meet the team [blog](https://blog.marketinvoice.com/2018/09/05/marketinvoice-shaneil-clarke/)  
-- I have also recently completed training at Makers that included highly intensive, self-taught guided learning with new concepts everyday.
+**Quick Learner** - My most recent role saw me joining a scaling finance-technology company to set up and pull their IT Support function in-house. More about it on the company's meet the team [blog](https://blog.marketinvoice.com/2018/09/05/marketinvoice-shaneil-clarke/).  
+I have also recently completed training at Makers, which is a highly intensive, self-taught guided learning coding bootcamp. I had to learn new concepts everyday within a short period of time.
 
 ## Education
 
