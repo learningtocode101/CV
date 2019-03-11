@@ -28,7 +28,7 @@ I have also recently completed training at Makers, which is a highly intensive, 
 
 ## Education
 
-#### Makers Academy (November 2018 to March 2019)
+#### Makers Academy (November 2018 - March 2019)
 *Intensive 16-week program / 10% acceptance rate*
 
 - Learning Agile development principles and using best coding practices such as XP
