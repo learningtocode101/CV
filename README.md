@@ -37,9 +37,6 @@ I have also recently completed training at Makers, which is a highly intensive, 
 - Learning languages such as Ruby, JavaScript
 - Developing Test Driven Development process using testing framworks such RSpec, Jasmine, Capybara.
 
-#### Arden University (October 2018 - October 2019)
-BSc. in Computing
-
 #### FlatIron School (June 2018 - August 2018)
 10 week part-time Introduction to Front-End Development course
 
