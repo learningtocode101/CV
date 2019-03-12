@@ -24,7 +24,7 @@ Logical thinking and organised individual looking to join a dynamic and progress
 **Time Management** - I developed a process of planning and exercising conscious control of time spent on specific activities. This allowed me to complete my foundation degree online with Open University, whilst working full-time.
 
 **Quick Learner** - My most recent role saw me joining a scaling finance-technology company to set up and pull their IT Support function in-house. More about it on the company's meet the team [blog](https://blog.marketinvoice.com/2018/09/05/marketinvoice-shaneil-clarke/).  
-I have also recently completed training at Makers, which is a highly intensive, self-taught guided learning coding bootcamp. I had to learn new concepts everyday within a short period of time.
+I have also recently completed training at Makers, which is a highly intensive, self-taught, guided learning coding bootcamp. I had to learn new concepts and best practices everyday within a short period of time.
 
 ## Education
 
@@ -35,7 +35,7 @@ I have also recently completed training at Makers, which is a highly intensive, 
 - Project management 
 - Frameworks such as RSpec, Jasmine, Ruby on Rails 
 - Learning languages such as Ruby, JavaScript
-- Developing Test Driven Development process using testing framworks such RSpec, Jasmine, Capybara.
+- Test Driven Development process using testing framworks such RSpec, Jasmine, Capybara.
 
 #### FlatIron School (June 2018 - August 2018)
 10 week part-time Introduction to Front-End Development course
@@ -45,14 +45,14 @@ Foundation degree in Computing and IT Practice(Software Development Pathway)
 
 ## Experience
 
-**MarketInvoice Ltd** (May 2017 to November 2018)    
+**MarketInvoice Ltd** (May 2017 - November 2018)    
 *IT Support Engineer*  
 *key skills: problem solving, time management, presentation, documentation and writing*
 
-**Paul Hastings LLP** (March 2015 to April 2017)   
-*Senior IT Support Analyst* 
+**Paul Hastings LLP** (March 2015 - April 2017)   
+*Senior IT Support Analyst*   
 *key skills: mentoring, verbal communication, stakeholder management, creativity*
 
-**DLA Piper LLP** (Novemeber 2012 to November 2014)   
+**DLA Piper LLP** (Novemeber 2012 - November 2014)   
 *IT Support Analyst*  
 *key skills: approachability, patience, accountability, teamwork*
