@@ -1,7 +1,7 @@
 ## Shaneil Clarke 
-#### [Github](https://github.com/learningtocode101) | [LinkedIn](https://www.linkedin.com/in/shaneil-c-85284568/)
+#### [Github](https://github.com/learningtocode101) | [LinkedIn](https://www.linkedin.com/in/shaneil-c-85284568/) | [Portfolio](https://learningtocode101.github.io/HTML-CSS-Project/)
 
-Logical thinking and organised individual looking to join a dynamic and progressive environment as a junior software engineer that will utilise my existing skills, offer further development and reveal new challenges.
+Logical thinking and organised individual looking to join a dynamic and progressive environment that will utilise my existing skills, offer further development and reveal new challenges.. Available for Junior Software Development roles within an enthusiastic engineering team that can offer further development. 
 
 ## Projects
 | Project           | Description              | Timeframe |Technologies
