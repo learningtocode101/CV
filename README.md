@@ -1,7 +1,7 @@
 ## Shaneil Clarke 
-#### [Github](https://github.com/learningtocode101) | [LinkedIn](https://www.linkedin.com/in/shaneil-c-85284568/) | [Portfolio](https://learningtocode101.github.io/HTML-CSS-Project/)
+#### [Github](https://github.com/learningtocode101) | [LinkedIn](https://www.linkedin.com/in/shaneil-c-85284568/) | [Portfolio](https://learningtocode101.github.io/HTML-CSS-Project/) | [Blog](https://medium.com/@shaneilske)
 
-Logical thinking and organised individual looking to join a dynamic and progressive environment that will utilise my existing skills, offer further development and reveal new challenges.. Available for Junior Software Development roles within an enthusiastic engineering team that can offer further development. 
+Former IT Support problem solver with logical thinking, communicative and time management skills. I enjoy taking responsibility for tasks that leave things in better shape than when I found them. I am looking to join a dynamic and progressive organisation that will utilise my existing skills and reveal new challenges with technological solutions that are making an impact. Available for Junior Software Development roles within an enthusiastic engineering team that fosters collaboration and development. 
 
 ## Projects
 | Project           | Description              | Timeframe |Technologies
@@ -29,13 +29,13 @@ I have also recently completed training at Makers, which is a highly intensive, 
 ## Education
 
 #### Makers Academy (November 2018 - March 2019)
-*Intensive 16-week program / 10% acceptance rate*
+*Intensive 16-week program / 10% acceptance rate*  
 
-- Learning Agile development principles and using best coding practices such as XP
-- Project management 
-- Frameworks such as RSpec, Jasmine, Ruby on Rails 
-- Learning languages such as Ruby, JavaScript
-- Test Driven Development process using testing framworks such RSpec, Jasmine, Capybara.
+Self-led learning structure with a focus on:
+- Agile development principles such as XP, pair programming, TDD, CI.  
+- Project management and developing methodological processes for learning languages and debugging applications.  
+- Building object-oriented solutions with technologies such as Ruby on Rails, Sinatra, Ruby, JS, RSpec, Jasmine, Capybara.  
+- Database management using PostgreSQL object-relational database. 
 
 #### FlatIron School (June 2018 - August 2018)
 10 week part-time Introduction to Front-End Development course
