@@ -59,6 +59,6 @@ Foundation degree in Computing and IT Practice(Software Development Pathway)
 *Senior IT Support Analyst*   
 *key skills: mentoring, verbal communication, stakeholder management, creativity*
 
-**DLA Piper LLP** (Novemeber 2012 - November 2014)   
+**DLA Piper LLP** (November 2012 - November 2014)   
 *IT Support Analyst*  
 *key skills: approachability, patience, accountability, teamwork*
