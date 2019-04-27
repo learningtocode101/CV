@@ -1,5 +1,5 @@
 ## Shaneil Clarke 
-#### [Github](https://github.com/learningtocode101) | [LinkedIn](https://www.linkedin.com/in/shaneil-c-85284568/) | [Portfolio](https://learningtocode101.github.io/HTML-CSS-Project/) | [Blog](https://medium.com/@shaneilske)
+#### [Github](https://github.com/learningtocode101) | [LinkedIn](https://www.linkedin.com/in/shaneil-c-85284568/) | [Portfolio](https://learningtocode101.github.io/clarkesh/) | [Blog](https://medium.com/@shaneilske)
 
 Former IT Support problem solver with logical thinking, communicative and time management skills. I enjoy taking responsibility for tasks that leave things in better shape than when I found them. I have a keen interest in AI, robotics and cyber security and generally excited about how modern day computing is changing the landscape of problems we tackle.   
 I am looking to join a dynamic and progressive organisation that will utilise my existing skills and reveal new challenges with technological solutions that are making an impact on individuals, businesses and the environment.   
