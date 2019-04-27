@@ -20,7 +20,7 @@ Available for Junior Software Development roles within an enthusiastic engineeri
 <a href="https://sourcerer.io/learningtocode101"><img src="https://img.shields.io/badge/HTML-175%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/learningtocode101"><img src="https://img.shields.io/badge/CSS-245%20commits-orange.svg" alt=""></a>
 
-**Problem Solving** - During my 6+ years as an IT Support Analyst, I collaborated extensively with peers, IT management, and other engineers to resolve technical issues. This molded me into becoming highly experienced in investigating root causes of failures and implementation a solution or quick work around.
+**Problem Solving** - During my 6+ years as an IT Support Analyst, I collaborated extensively with peers, IT management, and other engineers to resolve technical issues. This molded me into becoming highly experienced in investigating root causes of failures and implementating a solution or quick work around.
 * I achieved being called the *'mobile device guru'* for my extensive knowledge and troubleshooting skills in identifying issues with mobile devices.   
 
 **Communication** - My previous roles involved working closely with various teams to develop compliance and other regulatory documents. This led to the implementation of security policies and end users training documentation.
